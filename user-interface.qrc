@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>qml/components/LiveEditor.qml</file>
+        <file>qml/components/Slide.qml</file>
+        <file>qml/components/LiveCodingSlide.qml</file>
+        <file>qml/components/SlideContainer.qml</file>
+        <file>qml/components/BulletsSlide.qml</file>
+        <file>qml/components/SectionTitleSlide.qml</file>
+        <file>qml/components/StaticCodingSlide.qml</file>
+    </qresource>
+</RCC>
